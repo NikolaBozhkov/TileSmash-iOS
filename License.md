@@ -1,1 +1,1 @@
-Copyright © 2016 Nikola Bozhkov. All rights reserved.
+Copyright © 2014 Nikola Bozhkov. All rights reserved.
